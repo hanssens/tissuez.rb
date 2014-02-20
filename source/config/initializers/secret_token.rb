@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Tissuez::Application.config.secret_key_base = '545afaba0bae0a6cc5ff461890bd6d46ff409cfc16acd1cd4ed9a88b024969cccbe1f5fecb308d1129155033b784f93ad60bdaaa168ebca0e4941afa86a0ef63'
+Tissuez::Application.config.secret_key_base = '8686ded9d2e1f9f50f7bb27e78527fc44690ae471973c3e28cc4137c84a07bb8b6ff37adaf29329240f5938d0aacc9c64d41d3460c6e826066cf2994662a51ed'
