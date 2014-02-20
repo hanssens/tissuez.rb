@@ -22,4 +22,5 @@ doc/
 
 # RubyMine
 .idea/*
+log/*
 
